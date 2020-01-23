@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	width: 95%;
+	margin: auto;
+	margin-top: 50px;
+	overflow: hidden;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.menu{
+	width: 50%;
+	float: right;
+}
+.menu ul{
+	list-style: none;
+	float: right;
+}
+.menu ul li{
+	float: left;
+}
+.menu ul li a{
+	color: #7af4d3;
+	text-decoration: none;
+	margin: 15px;
+	font-size: 16;
+	text-transform: uppercase;
+
+}
+.banner{
+	width: 95%;
+	margin: auto;
+	margin-top: 30px;
+}
+.banner img{
+	width: 100%;
+}
+.content{
+	width: 80%;
+	margin: auto;
+	margin-top: 100px;
+}
+.content span{
+	font-size: 16px;
+	color: #b4ad9e;
+	text-transform: uppercase;
+	margin-bottom: 25px;
+	display: block;
+}
+.content h1{
+	color: #626262;
+	font-size: 40px;
+	margin-bottom: 30px;
+}
+.content p{
+	color: #626262;
+	line-height: 1.4;
+	margin-bottom: 18px;
+} 
+.middel {
+	width: 40%;
+	float: left;
+}
+.middel_1{
+	float: right;
+	width: 40%;
+}
+.img_buttom{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	margin-bottom: 30px;
+
+}
+.middel_1 img{
+	width: 500px;
+	height: 281px;
+}
+.middel img{
+	width: 500px;
+	height: 281px;
+}
+
